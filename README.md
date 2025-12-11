@@ -17,6 +17,6 @@ on a periodic square domain.
 
 https://github.com/user-attachments/assets/cc22a16d-bce0-4e37-ad52-1274ab9cb691
 
-## 3. 0-mean version
+## 3. Zero mean version
 
 Different versions of the above two numerical scheme that enforces the zero mean on the solution to resolve the drifting amplitude.
